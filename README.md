@@ -38,3 +38,6 @@ Plot: Displays log-log fit of flux vs. frequency offset
 
 <img src="sipster_exampleplot.png" alt="sipster" width="1000">
 
+## Citation
+Please cite [Ho et al. 2025, MNRAS](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf995/8168211?utm_source=advanceaccess&utm_campaign=mnras&utm_medium=email&login=false) if you use the code in your paper.
+
