@@ -22,4 +22,11 @@ SIPSTER is a Python tool for estimating the spectral index of a single radio pul
 Install the required Python packages via:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt  
+```
+
+## Usage
+python flux_density_analysis.py <archive_file.ar>
+
+Example:  
+python flux_density_analysis.py J1823-3021A.ar
