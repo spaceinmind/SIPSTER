@@ -35,3 +35,6 @@ python flux_density_analysis.py J1823-3021A.ar
 Terminal: Prints spectral index slope ± error and intercept  
 
 Plot: Displays log-log fit of flux vs. frequency offset
+
+<img src="sipster_exampleplot.png" alt="sipster" width="500">
+
