@@ -29,4 +29,9 @@ pip install -r requirements.txt
 python flux_density_analysis.py <archive_file.ar>
 
 ## Example:  
-python flux_density_analysis.py J1823-3021A.ar
+python flux_density_analysis.py J1823-3021A.ar  
+
+## Output
+Terminal: Prints spectral index slope ± error and intercept  
+
+Plot: Displays log-log fit of flux vs. frequency offset
