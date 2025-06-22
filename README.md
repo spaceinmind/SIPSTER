@@ -28,5 +28,5 @@ pip install -r requirements.txt
 ## Usage
 python flux_density_analysis.py <archive_file.ar>
 
-Example:  
+## Example:  
 python flux_density_analysis.py J1823-3021A.ar
