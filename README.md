@@ -6,7 +6,7 @@ SIPSTER is a Python tool for estimating the spectral index of a single radio pul
 
 ---
 
-## 🚀 Features
+## Features
 
 - Loads and processes `.ar` files via `psrchive`
 - Applies sky temperature corrections using `tsky1.ascii`
@@ -17,7 +17,7 @@ SIPSTER is a Python tool for estimating the spectral index of a single radio pul
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install the required Python packages via:
 
