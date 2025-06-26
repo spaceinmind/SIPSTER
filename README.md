@@ -26,10 +26,14 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+``` python
 python flux_density_analysis.py <archive_file.ar>
+```
 
-## Example:  
+## Example:
+``` python
 python flux_density_analysis.py J1823-3021A.ar  
+```
 
 ## Output
 Terminal: Prints spectral index slope ± error and intercept  
