@@ -27,12 +27,12 @@ pip install -r requirements.txt
 
 ## Usage
 ``` python
-python flux_density_analysis.py <archive_file.ar>
+python sipster.py <archive_file.ar>
 ```
 
 ## Example:
 ``` python
-python flux_density_analysis.py J1823-3021A.ar  
+python sipster.py J1823-3021A.ar  
 ```
 
 ## Output
