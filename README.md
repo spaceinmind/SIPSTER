@@ -1,6 +1,6 @@
 # 🧔🏻 SIPSTER
 
-## **Spectral Index of Pulses with Sky Temperature Estimation Routine**
+**Spectral Index of Pulses with Sky Temperature Estimation Routine**
 
 SIPSTER is a Python tool for estimating the spectral index of a single radio pulse using pulsar data from PSRCHIVE `.ar` files. It applies sky temperature correction based on the Haslam 408 MHz sky map and fits a power-law to the pulse flux across frequency.
 
