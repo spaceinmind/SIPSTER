@@ -1,4 +1,4 @@
-# SIPSTER
+# 🧔🏻SIPSTER
 
 **Spectral Index of Pulses with Sky Temperature Estimation Routine**
 
